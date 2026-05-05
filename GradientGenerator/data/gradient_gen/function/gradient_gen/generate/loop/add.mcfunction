@@ -1,0 +1,1 @@
+$data modify storage gradient_gen:gradient_gen result append value $(string)

@@ -1,0 +1,1 @@
+$data modify storage gradient_gen:gradient_gen temp.string set value "{text:\"$(curChar)\", color:\"#$(color)\"}"

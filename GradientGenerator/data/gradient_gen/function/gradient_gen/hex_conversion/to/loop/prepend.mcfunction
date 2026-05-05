@@ -1,0 +1,1 @@
+$data modify storage gradient_gen:hex_conversion temp.string set value "$(toPrepend)$(string)"
